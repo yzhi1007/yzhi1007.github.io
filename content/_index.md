@@ -10,7 +10,7 @@ sections:
       text: ''
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Yu_Zhi_Academic_CV.pdf
       headings:
         about: ''
         education: ''
