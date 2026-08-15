@@ -3,7 +3,6 @@ title: Research
 type: landing
 
 sections:
-sections:
   - block: markdown
     content:
       title: Research Interests
