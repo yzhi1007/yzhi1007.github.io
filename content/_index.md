@@ -12,8 +12,8 @@ sections:
         text: Download CV
         url: uploads/Yu_Zhi_Academic_CV.pdf
       headings:
-        about: ''
-        education: ''
+        about: 'About'
+        education: 'Education'
         interests: ''
     design:
       background:
