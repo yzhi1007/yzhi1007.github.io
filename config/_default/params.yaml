@@ -25,8 +25,6 @@ hugoblox:
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "" # Twitter/X handle for Twitter Cards (without @)
-  seo:
-    title: "Yu Zhi | Theoretical Physics | University of Virginia"
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
   # Color and visual design system
@@ -125,7 +123,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   seo:
     # Browser tab title override (defaults to identity.name if not set)
-    title: ""
+    title: "Yu Zhi | Theoretical Physics | University of Virginia"
     # For local_business identity type only
     location:
       address:
