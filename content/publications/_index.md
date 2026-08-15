@@ -6,7 +6,7 @@ sections:
   - block: collection
     content:
       title: Publications
-      count: 0
+      count: 20
       sort_by: Date
       sort_ascending: false
       filters:
