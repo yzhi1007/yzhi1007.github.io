@@ -13,7 +13,8 @@ bio:
 affiliations:
   - name: Department of Physics, University of Virginia
     url: https://www.phys.virginia.edu/
-  - [yz9hy@virginia.edu](mailto:yz9hy@virginia.edu)
+  - name: yz9hy@virginia.edu
+    url: mailto:yz9hy@virginia.edu
 
 interests:
   - Particle Theory/Phenomenology
