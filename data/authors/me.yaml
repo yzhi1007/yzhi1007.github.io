@@ -13,23 +13,7 @@ bio:
 affiliations:
   - name: Department of Physics, University of Virginia
     url: https://www.phys.virginia.edu/
-
-links:
-  - icon: at-symbol
-    url: mailto:yz9hy@virginia.edu
-    label: E-mail
-  - icon: academicons/inspire
-    url: https://inspirehep.net/authors/3143930
-    label: INSPIRE-HEP
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=en&user=fsriRYYAAAAJ
-    label: Google Scholar
-  - icon: academicons/orcid
-    url: https://orcid.org/0009-0007-3440-4678
-    label: ORCID
-  - icon: brands/github
-    url: https://github.com/yzhi1007
-    label: GitHub
+  - [yz9hy@virginia.edu](mailto:yz9hy@virginia.edu)
 
 interests:
   - Particle Theory/Phenomenology
