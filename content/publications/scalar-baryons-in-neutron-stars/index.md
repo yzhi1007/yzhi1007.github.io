@@ -13,10 +13,7 @@ publication: "arXiv:2608.10141 [hep-ph]"
 publication_short: "arXiv:2608.10141"
 
 abstract: >
-  We investigate GeV-scale scalar particles carrying baryon number in neutron
-  stars and study their impact on the neutron-star equation of state. We examine
-  both repulsive and attractive scalar self-interactions, including regimes
-  related to Q-matter.
+  Neutron stars have baryon chemical potentials that can exceed the neutron mass, providing favorable conditions to convert neutrons to new particles carrying baryon number, even if those processes are kinematically forbidden in vacuum. We study the effect of GeV-scale scalars with baryon number on neutron stars' equation of state and show that non-perturbatively large repulsive self-couplings are required to support the observed two-solar-mass neutron stars. We also study potentials with attractive self-interactions, which can trigger scalar production even for masses above the chemical potential and resemble Coleman's Q-matter.
 
 summary: >
   Scalar particles carrying baryon number can significantly affect neutron-star
