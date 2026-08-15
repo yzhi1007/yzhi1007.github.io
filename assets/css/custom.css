@@ -5,5 +5,6 @@
 }
 /* Wider text column on the Research page */
 .research-page .prose {
-  max-width: 52rem !important;
+  max-width: 60rem !important;
+  width: 100%;
 }
