@@ -4,6 +4,7 @@ type: landing
 
 sections:
   - block: markdown
+    id: research-content
     content:
       title: ''
       text: |-
@@ -14,5 +15,4 @@ sections:
         My previous research used long-baseline atom interferometry to probe low-frequency gravitational waves and ultralight dark matter. I am also a member of the AION (Atom Interferometer Observatory and Network) Collaboration.
     design:
       columns: '1'
-      css_class: research-page
 ---

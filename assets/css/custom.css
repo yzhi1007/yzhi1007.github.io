@@ -3,8 +3,11 @@
   font-size: 1.15rem;
   line-height: 1.25;
 }
-/* Wider text column on the Research page */
-.research-page .prose {
+/* Wider Research page */
+#research-content .max-w-prose {
   max-width: 60rem !important;
+}
+
+#research-content .prose {
   width: 100%;
 }
