@@ -8,7 +8,7 @@ name:
   
 role: Graduate Student in Physics
 bio:
-    Yu Zhi is a Ph.D. candidate in theoretical physics at the University of Virginia. He studied at the University of Cambridge, where he received an M.Phil. in Physics in 2024, before continuing his doctoral studies in Physics at the University of Virginia. His research interests include quantum field theory, particle physics, astrophysics, and physics beyond the Standard Model.
+    Yu Zhi is currently a Ph.D. candidate in theoretical physics at the University of Virginia. He studied at the University of Cambridge, where he received an M.Phil. in Physics in 2024, before continuing his doctoral studies in Physics at the University of Virginia. His research interests include quantum field theory, particle physics, astrophysics, and physics beyond the Standard Model.
 
 affiliations:
   - name: Department of Physics, University of Virginia
@@ -22,8 +22,8 @@ education:
     start: 2024
   - degree: M.Phil. in Physics
     institution: University of Cambridge, UK
-    start: 2022
-    end: 2024
+    start: 2022 - 2024
+    end:
   - degree: B.A. in Physics and Mathematicas
     institution: Colby College, US
     start: 2018
