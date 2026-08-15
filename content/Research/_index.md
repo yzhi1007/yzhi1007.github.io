@@ -5,17 +5,14 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Research Interests
+      title: ''
       text: |-
-        - Quantum Field Theory
-        - Particle Physics
-        - Astrophysics
-        - Physics Beyond the Standard Model
+        **Research interests:** quantum field theory, particle physics, astrophysics, and physics beyond the Standard Model.
     design:
       columns: '1'
   - block: markdown
     content:
-      title: Research
+      title: Research Description
       text: |-
         My research in particle theory and phenomenology mostly focuses on physics beyond the Standard Model (SM). My current research focuses on non-topological solitons and neutron dark decay.
 
