@@ -19,15 +19,15 @@ affiliations:
 education:
   - degree: Ph.D. in Physics
     institution: University of Virginia, US
-    start: 2024
+    start: 2024 - present
   - degree: M.Phil. in Physics
     institution: University of Cambridge, UK
     start: 2022 - 2024
     end:
   - degree: B.A. in Physics and Mathematicas
     institution: Colby College, US
-    start: 2018
-    end: 2022
+    start: 2018 - 2022
+    end:
 
 awards:
   - title: Honors Degree in Physics
