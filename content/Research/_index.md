@@ -3,6 +3,17 @@ title: Research
 type: landing
 
 sections:
+sections:
+  - block: markdown
+    content:
+      title: Research Interests
+      text: |-
+        - Quantum Field Theory
+        - Particle Physics
+        - Astrophysics
+        - Physics Beyond the Standard Model
+    design:
+      columns: '1'
   - block: markdown
     content:
       title: Research
