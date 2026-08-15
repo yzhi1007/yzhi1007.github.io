@@ -1,7 +1,5 @@
 ---
-title: Teaching
 ---
-
 ### University of Virginia
 
 **Graduate Teaching Assistant**  
