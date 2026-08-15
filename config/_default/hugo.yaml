@@ -33,6 +33,10 @@ cascade:
 
 build:
   writeStats: true
+
+disableKinds:
+  - taxonomy
+  - term
 enableGitInfo: false
 summaryLength: 30
 pagination:
