@@ -9,7 +9,7 @@ authors:
 publication_types:
   - preprint
 
-publication: "*arXiv preprint* arXiv:2608.10141 [hep-ph,astroph.CO] (2026)"
+publication: "arXiv:2608.10141 [hep-ph,astroph.CO] (2026)"
 publication_short: "*arXiv:2608.10141*"
 
 abstract: >
