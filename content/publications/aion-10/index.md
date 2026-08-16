@@ -13,8 +13,8 @@ authors:
 publication_types:
   - preprint
 
-publication: "AION Technical Design Report, AION-REPORT/2025-04"
-publication_short: "AION-REPORT/2025-04"
+publication: "*AION Technical Design Report*, AION-REPORT (2025)"
+publication_short: "*AION-REPORT/2025-04*"
 
 abstract: >
   This Technical Design Report presents AION-10, a 10-meter atom interferometer to be located at Oxford University using ultracold strontium atoms to make precision measurements of fundamental physics. AION-10 serves as both a prototype for future larger-scale experiments and a versatile scientific instrument capable of conducting its own diverse physics programme.
